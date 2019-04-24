@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml:1:1-4:12
+	package
+		ADDED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml:2:5-46
+		INJECTED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml
+		INJECTED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml
+		ADDED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml:1:1-4:12
+		INJECTED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml:1:1-4:12
+	android:versionCode
+		INJECTED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml
+		ADDED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml:1:1-4:12
+		INJECTED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml
+application
+ADDED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml:3:5-20
+uses-sdk
+INJECTED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml
+INJECTED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml
+INJECTED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml
+INJECTED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml
+		ADDED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml
+		INJECTED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml
+		ADDED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml
+		INJECTED from D:\project_android\AppIntro-master\appintro\src\main\AndroidManifest.xml
